@@ -116,7 +116,7 @@ const CONFIG = {
       },
       {
         name: 'DECEP',
-        link: 'https://decep.upr.edu,
+        link: 'https://decep.upr.edu/',
       },
     ],
   },
