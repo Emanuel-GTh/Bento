@@ -11,7 +11,7 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'John',
+  name: 'Diego',
   imageBackground: false,
   openInNewTab: true,
 
@@ -67,9 +67,9 @@ const CONFIG = {
     },
     {
       id: '6',
-      name: 'Odysee',
+      name: 'Youtube',
       icon: 'youtube',
-      link: 'https://odysee.com/',
+      link: 'https://youtube.com/',
     },
   ],
 
@@ -103,20 +103,20 @@ const CONFIG = {
     ],
     secondList: [
       {
-        name: 'Linkedin',
-        link: 'https://linkedin.com/',
+        name: 'UPR Outlook',
+        link: 'https://outlook.office365.com/mail/inbox',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
+        name: 'UPR Gmail',
+        link: 'https://mail.google.com/mail/u/0/#inbox',
       },
       {
-        name: 'Dribbble',
+        name: 'University Portal',
         link: 'https://dribbble.com',
       },
       {
-        name: 'Telegram',
-        link: 'https://webk.telegram.org',
+        name: 'DECEP',
+        link: 'https://decep.upr.edu/,
       },
     ],
   },
